@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Kursovay</string>
+    <string name="prediction" translatable="false">Prediction</string>
+    <string name="probability" translatable="false">Probability</string>
+    <string name="timecost" translatable="false">Timecost</string>
+    <string name="timecost_value" translatable="false">%1$d ms</string>
+    <string name="empty" translatable="false">--</string>
+    <string name="detect" translatable="false">Detect</string>
+    <string name="clear" translatable="false">Clear</string>
+    <string name="please_write_a_digit" translatable="false">Please write a digit</string>
+    <string name="failed_to_create_classifier" translatable="false">Failed to create classifier</string>
+</resources>
